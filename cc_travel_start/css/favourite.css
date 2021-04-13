@@ -1,14 +1,3 @@
-/* .favourite-bg-1 {
-    background-image: url(../img/favourites/indonesia.png);
-  }
-  
-  .favourite-bg-2 {
-    background-image: url(../img/favourites/australia.png);
-  }
-  
-  .favourite-bg-3 {
-    background-image: url(../img/favourites/switzerland.png);
-  } */
 .favourite{
   text-align: center;
 }
@@ -22,8 +11,6 @@
 #favourite-destinations-grid{
   display: flex;
   justify-content: center;
-  /* margin-left: 20%;
-  margin-right: 10%; */
 }
 
 .favourite-images{
