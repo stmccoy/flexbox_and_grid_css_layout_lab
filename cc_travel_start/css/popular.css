@@ -4,12 +4,12 @@
     'image image image'
     'image image image';
     grid-template-columns: 1fr 1fr 1fr;
-    margin-left: 15%;
-    margin-right: 10%;
+    /* margin-left: 15%;
+    margin-right: 10%; */
 }
 
 .popular-images{
-    /* width:40%; */
+    width: 600px;
     margin: 2%;
 }
 

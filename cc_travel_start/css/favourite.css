@@ -9,21 +9,25 @@
   .favourite-bg-3 {
     background-image: url(../img/favourites/switzerland.png);
   } */
-
+.favourite{
+  text-align: center;
+}
 
 .favourite > h1{
+  
   text-align: center;
 }
 
 
 #favourite-destinations-grid{
   display: flex;
-  margin-left: 20%;
-  margin-right: 10%;
+  justify-content: center;
+  /* margin-left: 20%;
+  margin-right: 10%; */
 }
 
 .favourite-images{
-  width:25%;
-  margin: 2%;
+  width:500px;
+  margin: 3%;
 }
   
